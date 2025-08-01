@@ -1,6 +1,6 @@
 # 👉🏻 C<sup>3</sup> Benchmark 👈🏻
 
-🌐 <a href="https://step-out.github.io/C3-web" target="_blank">Website</a>  •  🤗 <a href="https://huggingface.co/datasets/ChengqianMa/C3" target="_blank">Hugging Face</a>  •  📃 <a href="http://arxiv.org/abs/" target="_blank">arXiv Paper</a> 
+🌐 <a href="https://step-out.github.io/C3-web" target="_blank">Website</a>  •  🤗 <a href="https://huggingface.co/datasets/ChengqianMa/C3" target="_blank">Hugging Face</a>  •  📃 <a href="https://arxiv.org/abs/2507.22968" target="_blank">arXiv Paper</a> 
 
 ## ✨ Key Features
 
@@ -41,6 +41,7 @@ If you find [C3Bench](https://github.com/step-out/C3Bench) useful for your resea
   title={C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations},
   author={Ma, Chengqian and Tao, Wei and Guo, Yiwen},
   booktitle={arXiv Preprint},
+  url={https://arxiv.org/abs/2507.22968},
   year={2025},
 }
 ```
