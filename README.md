@@ -16,7 +16,7 @@
 ## 🚀 Usage
 
 > [!Important]
-> 🔥 **Limited Time Offer!** We can help you run the evaluation script for your SDM's result on our benchmark, free of charge until Sept. 1, 2025. After that, you can run the evaluation independently. To participate, email chengqianma@yeah.net with subject: `[C3Bench Evaluation] - [Model_Name]`
+> 🔥 **Limited Time Offer!** We can help you run the evaluation script (Step 2 & 3 below) for your SDM's result on our benchmark, free of charge until Sept. 1, 2025. After that, you can run the evaluation independently. To participate, email chengqianma@yeah.net with the results of Step 1 and use the subject: `[C3Bench Evaluation] - [Model_Name]`
 
 1. **Prepare Data**: 
    - Download the [C3 dataset](https://huggingface.co/datasets/ChengqianMa/C3) to `reference_path`
