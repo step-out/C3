@@ -37,11 +37,10 @@
 If you find [C3Bench](https://github.com/step-out/C3Bench) useful for your research and applications, feel free to give us a star ⭐ or cite us using:
 
 ```bibtex
-@inproceedings{c3bench,
-  title={C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations},
-  author={Ma, Chengqian and Tao, Wei and Guo, Yiwen},
-  booktitle={arXiv Preprint},
-  url={https://arxiv.org/abs/2507.22968},
-  year={2025},
+@inproceedings{ma2025c3,
+   title={C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring Challenges in Complex Conversations},
+   author={Ma, Chengqian and Tao, Wei and Guo, Yiwen},
+   booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+   year={2025},
 }
 ```
