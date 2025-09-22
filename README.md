@@ -26,7 +26,6 @@
    - Use `evaluate.py` for automatic evaluation (see [EvaluationUsage.md](EvaluationUsage.md))
 
 3. **Calculate Accuracy**:
-   - **Annotate**: Manually annotate generation tasks in JSON files
    - **Calculate**: Use `process_results.py` to generate final accuracy metrics automatically, see [CalculationUsage.md](CalculationUsage.md) for detailed workflow
 
 4. **Submit Results**:

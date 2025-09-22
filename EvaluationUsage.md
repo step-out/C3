@@ -96,3 +96,22 @@ These separate evaluator directories are then combined by `process_results.py` u
 ## Notes
 
 - The script automatically creates output directories if they don't exist
+
+## Annotation
+
+The outputs of SDMs in the **phonological ambiguity** category cannot be reliably evaluated based on text alone, since their correctness depends on phonological features. To achieve automatic evaluation, one would need to use SDMs to assess the outputs of other SDMs; however, current SDM performance is insufficient for this purpose, making **manual annotation** necessary.
+
+### Annotation Guidelines
+
+When annotating the outputs of SDMs, please strictly adhere to the format used in the automatic annotation results from `evaluate.py`, such as:
+
+- `The answer is: yes.`
+- `The answer is: no.`
+- `最终答案为：是。`
+- `最终答案为：否。`.
+
+In addition, ensure that your annotations are consistent with the information provided in the **`annotation`**, **`notation`**, and **`answer`** fields of the dataset (in your `reference_path`).
+
+### Annotation Support
+
+If you encounter language difficulties in English or Chinese, please contact us at **chengqianma@yeah.net**. You may send us the SDM outputs, and we will provide the manual annotations **free of charge**.  
