@@ -99,7 +99,7 @@ These separate evaluator directories are then combined by `process_results.py` u
 
 ## Annotation
 
-The outputs of SDMs in the **phonological ambiguity** category cannot be reliably evaluated based on text alone, since their correctness depends on phonological features. To achieve automatic evaluation, one would need to use SDMs to assess the outputs of other SDMs; however, current SDM performance is insufficient for this purpose, making **manual annotation** necessary.
+In the generation task (22 instances in Chinese and 12 in English) of **phonological ambiguity** category, the outputs of SDMs cannot be reliably evaluated based on text alone, since their correctness depends on phonological features. To achieve automatic evaluation, one would need to use SDMs to assess the outputs of other SDMs; however, current SDM performance is insufficient for this purpose, making **manual annotation** necessary.
 
 ### Annotation Guidelines
 
