@@ -2,6 +2,10 @@
 
 🌐 <a href="https://step-out.github.io/C3-web" target="_blank">Website</a>  •  🤗 <a href="https://huggingface.co/datasets/ChengqianMa/C3" target="_blank">Hugging Face</a>  •  📃 <a href="https://arxiv.org/abs/2507.22968" target="_blank">arXiv Paper</a> 
 
+## 📰 News
+
+- August 21, 2025: C3 Benchmark has been accepted to **EMNLP 2025 main conference**.
+
 ## ✨ Key Features
 
 * 🌍 **Bilingual Coverage**: Comprehensive evaluation in both English and Chinese.
