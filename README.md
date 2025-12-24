@@ -45,5 +45,9 @@ If you find [C3Bench](https://github.com/step-out/C3Bench) useful for your resea
    author={Ma, Chengqian and Tao, Wei and Guo, Yiwen},
    booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
    year={2025},
+   publisher={Association for Computational Linguistics},
+   doi={10.18653/v1/2025.emnlp-main.1160},
+   pages={22789--22807},
+   ISBN={979-8-89176-332-6},
 }
 ```
